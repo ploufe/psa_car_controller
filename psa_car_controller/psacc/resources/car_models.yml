@@ -1,4 +1,11 @@
 - !ElecModel
+  name: e-5008 Long Range
+  battery_power: 97
+  fuel_capacity: 0
+  abrp_name: peugeot:e5008:25:100
+  reg: VR3KCZKM0R
+  max_elec_consumption: 100
+- !ElecModel
   name: e-3008
   battery_power: 73
   fuel_capacity: 0
